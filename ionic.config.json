@@ -1,0 +1,7 @@
+{
+  "name": "dempApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
