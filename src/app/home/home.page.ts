@@ -7,6 +7,11 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
+  public messages: string ="";
+  public isAvailable: boolean = true;
+  public valueA: number =5;
+  public valueB:number =7;
+
   constructor() {}
 
 }
